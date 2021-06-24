@@ -38,6 +38,7 @@
     "denque": "^1.1.0",
     "lodash.defaults": "^4.2.0",
     "lodash.flatten": "^4.4.0",
+    "net-keepalive": "^2.0.5",
     "p-map": "^2.1.0",
     "redis-commands": "1.7.0",
     "redis-errors": "^1.2.0",
